@@ -41,7 +41,7 @@ ImGui is included as a subdirectory — no separate installation needed.
 
 ## Build
 ```bash
-git clone https://github.com/TUONOME/IntrusionDetectionSystem.git
+git clone https://github.com/toddkk02/IntrusionDetectionSystem.git
 cd IntrusionDetectionSystem
 make re
 ```
@@ -160,3 +160,4 @@ MIT License - see LICENSE file for details.
 ## Author
 
 Alessandro - [GitHub](https://github.com/TUONOME)
+
