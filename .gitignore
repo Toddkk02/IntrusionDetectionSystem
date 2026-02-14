@@ -1,0 +1,9 @@
+*.o
+ids
+ids.log
+ids_export.csv
+build/
+.vscode/
+imgui.ini
+.vscode
+
